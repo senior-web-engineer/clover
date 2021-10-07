@@ -1,0 +1,13 @@
+{
+  "name": "clover-scripts",
+  "version": "2.4.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "colors": "^1.4.0",
+    "prompts": "^2.4.0",
+    "randomstring": "^1.1.5",
+    "validator": "^13.5.2"
+  }
+}
